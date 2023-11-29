@@ -1,0 +1,20 @@
+h3{
+    color: brown;
+}
+table, th, td {
+    border: 1px solid;
+  }
+  .sity{
+    background-color: brown;
+  }
+  .center{
+    display: block;
+padding: top center;
+    width: 50%;
+  }
+ .one {
+    
+margin: 15px;
+padding: 5px;
+
+  }
